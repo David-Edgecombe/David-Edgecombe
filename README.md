@@ -19,8 +19,8 @@ Explore our technical workflows and systems design:
 * **Educational Games:** Serious games that balance fun with strict learning outcomes.
 
 ### 🛠 Tech Stack
-* **Engines:** Unity 3D (Expert), Unreal Engine
-* **Languages:** C#, C++, Python
+* **Engines:** Unity 3D (Expert)
+* **Languages:** C#, C++
 * **Platforms:** iOS, Android, WebGL, PC/Console
 
 ### 🔗 Connect With Us
