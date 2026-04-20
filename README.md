@@ -1,63 +1,32 @@
-# Ocean View Games | Unity Game Development Studio, London UK
+### David Edgecombe
 
-We are a UK-based [Unity game development studio](https://oceanviewgames.co.uk/services/gamedevelopment) with 20+ years of combined experience. We help studios ship games, port to mobile, build multiplayer backends, and create educational software that actually works.
+Director and Lead Unity Developer at [Ocean View Games](https://github.com/your-org-slug). London, UK.
 
-Our two senior engineers have shipped titles for **Jagex**, **BBC**, **Cambridge University Press**, and the **Museum of London**. We bring AAA engineering standards with studio-level project management and delivery.
+Unity Certified Expert. Previously Mobile Team Lead at Jagex (2017-2019), where I helped port [RuneScape](https://apps.apple.com/us/app/old-school-runescape/id1269648762), a 20-year-old PC MMO, to iOS and Android. The launch hit #1 RPG on the App Store and has driven millions of installs.
 
-Based in **London, United Kingdom**. Available for remote engagements worldwide.
+Before Jagex, I built educational games at Fish in a Bottle for the Museum of London and Cambridge University Press.
 
-## What We Do
+#### What I work on
 
-- **[Co-Development & Staff Augmentation](https://oceanviewgames.co.uk/services/codevelopment):** Senior Unity engineers embedded directly into your team.
-- **[Mobile Game Development & Porting](https://oceanviewgames.co.uk/services/mobile):** Deep profiling, thermal optimisation, crash resolution, 60FPS targets on iOS and Android.
-- **[Multiplayer & Network Engineering](https://oceanviewgames.co.uk/services/network-engineering):** Scalable server-authoritative backends using [FishNet](https://oceanviewgames.co.uk/technologies/fishnet), from co-op to MMO-scale.
-- **[Performance Optimisation](https://oceanviewgames.co.uk/services/performanceoptimization):** Memory management, draw call reduction, battery and thermal profiling.
-- **[Educational Game Development](https://oceanviewgames.co.uk/services/educationalgames):** Gamified learning for [universities](https://oceanviewgames.co.uk/industries/education), [museums](https://oceanviewgames.co.uk/industries/museums), and publishers. WebGL, mobile, and cross-platform.
-- **[2D Game Development](https://oceanviewgames.co.uk/services/2d-game-development):** For indie studios, educational clients, and rapid prototyping.
-- **[Unity Technical Audits](https://oceanviewgames.co.uk/services/technical-audit):** Codebase health checks, performance reports, and actionable recommendations.
+- High-performance Unity architecture for mobile and multiplayer
+- Thermal, battery, and memory profiling on constrained devices
+- Server-authoritative netcode with FishNet, from co-op to MMO-scale
+- Mobile porting and performance rescue work on live titles
 
-[View all services →](https://oceanviewgames.co.uk/services)
+#### Selected work
 
-## Selected Projects
+- **[Domi Online](https://oceanviewgames.co.uk/case-studies/domi-online-unity-mmo):** led the architecture for a FishNet-based MMO supporting 1,000+ concurrent players. The technical foundation helped the client close a $3M seed round.
+- **[RuneScape Mobile](https://oceanviewgames.co.uk/case-studies/mobile-game-porting-ui-optimization):** mobile team contributor on the port of RuneScape.
+- **[Fire of London](https://oceanviewgames.co.uk/case-studies/educational-game-modernization-fire-of-london):** Flash-to-HTML5 educational game for the Museum of London.
 
-| Project | Type | Highlights |
-|---|---|---|
-| [**Domi Online**](https://oceanviewgames.co.uk/case-studies/domi-online-unity-mmo) | MMORPG | 1,000+ concurrent players. FishNet server-authoritative architecture. Helped client secure $3M seed funding. |
-| [**RuneScape Mobile**](https://oceanviewgames.co.uk/case-studies/mobile-game-porting-ui-optimization) | Mobile MMO Port | Porting a 20-year PC MMO to mobile. #1 RPG on the App Store. Millions of installs. |
-| [**Fire of London**](https://oceanviewgames.co.uk/case-studies/educational-game-modernization-fire-of-london) | Educational | Flash-to-HTML5 modernisation for the Museum of London. |
-| [**Navigo**](https://oceanviewgames.co.uk/case-studies/navigo-multilanguage-educational-game) | EdTech | Multi-language learning game. Serious Games Society award winner. |
-| [**Nova Blast**](https://oceanviewgames.co.uk/case-studies/nova-blast-sdk-modernisation-porting) | Mobile | SDK modernisation and Android porting. |
-| [**Pocket Factory**](https://oceanviewgames.co.uk/case-studies/pocket-factory-mobile-strategy-design) | Mobile Strategy | AI-driven procedural generation. Full game design and monetisation. |
+#### Writing
 
-[View all case studies →](https://oceanviewgames.co.uk/case-studies) · [View all projects →](https://oceanviewgames.co.uk/projects)
+I publish on Unity performance, mobile UI, and multiplayer architecture on the [Ocean View Games blog](https://oceanviewgames.co.uk/blog) and [DEV.to](https://dev.to/oceanviewgames).
 
-## Technical Content
+#### Stack
 
-We write about Unity performance, multiplayer architecture, mobile optimisation, and educational game design on our [blog](https://oceanviewgames.co.uk/blog). Recent posts:
+Unity 6 · C# · Addressables · URP · PlayFab · WebGL
 
-- [Designing Mobile UI for Complex Games: Lessons from RuneScape and MMOs](https://oceanviewgames.co.uk/blog/posts/mobile-ui-design-complex-games)
-- [Procedural Generation on Mobile: Balancing Complexity and Performance](https://oceanviewgames.co.uk/blog/posts/procedural-generation-mobile-performance)
-- [Building Infinite Progression Systems in Unity](https://oceanviewgames.co.uk/blog/posts/building-infinite-progression-systems-unity)
-- [Building Reusable Game Frameworks in Unity](https://oceanviewgames.co.uk/blog/posts/building-reusable-game-frameworks)
+#### Elsewhere
 
-## Free Tools & Resources
-
-- [Game Development Cost Estimator](https://oceanviewgames.co.uk/resources/game-development-cost-estimator)
-- [Game Engine Comparison Tool](https://oceanviewgames.co.uk/resources/game-engine-comparison) (Unity vs Unreal vs Godot)
-- [Porting Feasibility Checker](https://oceanviewgames.co.uk/resources/porting-feasibility-checker)
-- [Timeline Estimator](https://oceanviewgames.co.uk/resources/game-development-timeline-estimator)
-- [Brief Builder](https://oceanviewgames.co.uk/resources/game-development-brief-builder)
-
-[View all resources →](https://oceanviewgames.co.uk/resources)
-
-## Technologies
-
-[Unity](https://oceanviewgames.co.uk/technologies/unity) · [Unity 6](https://oceanviewgames.co.uk/technologies/unity-6) · [C#](https://oceanviewgames.co.uk/technologies/csharp) · [FishNet](https://oceanviewgames.co.uk/technologies/fishnet) · [WebGL](https://oceanviewgames.co.uk/technologies/webgl) · [PlayFab](https://oceanviewgames.co.uk/technologies/playfab)
-
-## Get in Touch
-
-- 🌍 **Website:** [oceanviewgames.co.uk](https://oceanviewgames.co.uk)
-- 💼 **LinkedIn:** [Ocean View Games](https://www.linkedin.com/company/ocean-view-games)
-- ⭐ **Clutch:** [Verified Reviews](https://clutch.co/profile/ocean-view-games)
-- 📋 **GoodFirms:** [Ocean View Games](https://www.goodfirms.co/company/ocean-view-games)
-- ✍️ **DEV.to:** [Technical Articles](https://dev.to/oceanviewgames)
+- [oceanviewgames.co.uk](https://oceanviewgames.co.uk)
