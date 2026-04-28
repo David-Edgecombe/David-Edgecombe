@@ -1,6 +1,6 @@
 ### David Edgecombe
 
-Director and Lead Unity Developer at [Ocean View Games](https://github.com/your-org-slug). London, UK.
+Director and Principal Unity Engineer at [Ocean View Games](https://github.com/your-org-slug). London, UK.
 
 Unity Certified Expert. Previously Mobile Team Lead at Jagex (2017-2019), where I helped port [RuneScape](https://apps.apple.com/us/app/old-school-runescape/id1269648762), a 20-year-old PC MMO, to iOS and Android. The launch hit #1 RPG on the App Store and has driven millions of installs.
 
