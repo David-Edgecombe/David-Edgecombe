@@ -1,32 +1,64 @@
-### David Edgecombe
+# David Edgecombe
 
-Director and Principal Unity Engineer at [Ocean View Games](https://github.com/your-org-slug). London, UK.
+**Director & Principal Unity Engineer at [Ocean View Games](https://github.com/Ocean-View-Games)**
 
-Unity Certified Expert. Previously Mobile Team Lead at Jagex (2017-2019), where I helped port [RuneScape](https://apps.apple.com/us/app/old-school-runescape/id1269648762), a 20-year-old PC MMO, to iOS and Android. The launch hit #1 RPG on the App Store and has driven millions of installs.
+I’m a Unity developer and technical founder specialising in C#, game architecture, optimisation and solving difficult engineering problems.
 
-Before Jagex, I built educational games at Fish in a Bottle for the Museum of London and Cambridge University Press.
+I founded [Ocean View Games](https://oceanviewgames.co.uk) to build games and interactive products, improve existing projects, and provide experienced technical support to studios and organisations.
 
-#### What I work on
+Previously, I worked at **Jagex on RuneScape Mobile**, helping adapt the long-running PC game for iOS and Android. My work included reworking interface systems for different screen sizes, aspect ratios and UI scaling, alongside close collaboration with UI and UX teams.
 
-- High-performance Unity architecture for mobile and multiplayer
-- Thermal, battery, and memory profiling on constrained devices
-- Server-authoritative netcode with FishNet, from co-op to MMO-scale
-- Mobile porting and performance rescue work on live titles
+Before Jagex, I developed educational games at **Fish in a Bottle**, including projects for organisations such as the **Museum of London** and **Cambridge University Press**.
 
-#### Selected work
+## What I work on
 
-- **[Domi Online](https://oceanviewgames.co.uk/case-studies/domi-online-unity-mmo):** led the architecture for a FishNet-based MMO supporting 1,000+ concurrent players. The technical foundation helped the client close a $3M seed round.
-- **[RuneScape Mobile](https://oceanviewgames.co.uk/case-studies/mobile-game-porting-ui-optimization):** mobile team contributor on the port of RuneScape.
-- **[Fire of London](https://oceanviewgames.co.uk/case-studies/educational-game-modernization-fire-of-london):** Flash-to-HTML5 educational game for the Museum of London.
+* Unity and C# architecture
+* Gameplay systems and tools
+* Mobile optimisation and performance profiling
+* Existing-project rescue and technical problem-solving
+* Porting and legacy modernisation
+* Prototyping and technical discovery
+* Development tooling and reusable systems
 
-#### Writing
+## Selected work
 
-I publish on Unity performance, mobile UI, and multiplayer architecture on the [Ocean View Games blog](https://oceanviewgames.co.uk/blog) and [DEV.to](https://dev.to/oceanviewgames).
+### [Domi Online](https://oceanviewgames.co.uk/case-studies/domi-online-unity-mmo)
 
-#### Stack
+Lead Developer on a large-scale 3D RPG. I led the development team, technical architecture and engineering delivery across gameplay, optimisation and multiplayer systems.
 
-Unity 6 · C# · Addressables · URP · PlayFab · WebGL
+### [RuneScape Mobile](https://oceanviewgames.co.uk/case-studies/mobile-game-porting-ui-optimization)
 
-#### Elsewhere
+Developer at Jagex working on the mobile adaptation of RuneScape, including UI scaling, responsive interfaces and the transition from desktop-first interaction to mobile.
 
-- [oceanviewgames.co.uk](https://oceanviewgames.co.uk)
+### [Fire of London](https://oceanviewgames.co.uk/case-studies/educational-game-modernization-fire-of-london)
+
+Modernisation of an educational game originally created for the Museum of London, bringing legacy Flash content onto modern web technology.
+
+## Current stack
+
+`Unity` · `C#` · `Unity 6` · `URP` · `Addressables` · `WebGL` · `PlayFab`
+
+I also work across profiling, build pipelines, platform integrations and the tooling required to make development teams faster and projects easier to maintain.
+
+## Writing
+
+I write about Unity development, optimisation, architecture and lessons from real-world projects:
+
+* [Ocean View Games Blog](https://oceanviewgames.co.uk/blog)
+* [DEV Community](https://dev.to/oceanviewgames)
+
+## Ocean View Games
+
+Ocean View Games is a UK-based, engineering-led game development studio working with studios, publishers, organisations and brands.
+
+We provide:
+
+* Game development
+* Co-development
+* Unity engineering
+* Optimisation and technical support
+* Porting and modernisation
+* Prototyping and technical discovery
+* Educational and serious games
+
+🌐 [oceanviewgames.co.uk](https://oceanviewgames.co.uk)
